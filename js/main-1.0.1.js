@@ -96,7 +96,7 @@
     document.getElementById('form-sticker').classList.toggle('in');
     document.getElementById('modal-backdrop').classList.toggle('in');
     document.getElementById('modal-backdrop-btn').classList.toggle('in');
-    document.getElementById('body').classList.toggle('in');
+    // document.getElementById('body').classList.toggle('in');
   }
 
   // Select all the elements with example class.
