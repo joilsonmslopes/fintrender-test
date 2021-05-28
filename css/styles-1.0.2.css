@@ -2443,7 +2443,7 @@ section .subtitle {
 
 @media only screen and (max-width: 750px) {
   .modal-bta.in {
-    z-index: 1049;
+    z-index: 1051;
     opacity: 0.6;
   }
 }
