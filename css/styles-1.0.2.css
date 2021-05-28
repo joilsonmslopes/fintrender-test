@@ -2439,6 +2439,7 @@ section .subtitle {
   position: fixed;
   top: 0;
   left: 0;
+  overflow: auto;
 }
 
 @media only screen and (max-width: 750px) {
